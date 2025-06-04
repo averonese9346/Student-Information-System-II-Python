@@ -1,0 +1,11 @@
+=================================================================
+                  ✿✿✿ Welcome {acctName} ✿✿✿
+                to the Student Management System
+
+             ◆ 1. Add a student 
+             ◆ 2. Show a student
+             ◆ 3. Modify a student
+             ◆ 4. Delete a student
+             ◆ 5. Query student scores
+             ◆ 6. Return to the previous menu
+================================================================
